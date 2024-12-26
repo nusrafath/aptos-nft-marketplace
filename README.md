@@ -80,7 +80,7 @@ A modern NFT marketplace built on the Aptos blockchain using Next.js, TypeScript
 1. **Clone the repository**
 
    ```bash
-   git clone [](https://github.com/nusrafath/aptos-nft-marketplace)
+   git clone https://github.com/nusrafath/aptos-nft-marketplace
    cd aptos-nft-marketplace
    ```
 
