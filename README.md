@@ -1,5 +1,6 @@
-# Discord - nusrafath
-# Twitter - nusrafath
+Discord - nusrafath
+
+Twitter - nusrafath
 
 # Aptos NFT Marketplace
 
