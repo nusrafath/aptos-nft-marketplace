@@ -1,3 +1,6 @@
+# Discord - nusrafath
+# Twitter - nusrafath
+
 # Aptos NFT Marketplace
 
 A modern NFT marketplace built on the Aptos blockchain using Next.js, TypeScript, and the Aptos SDK.
