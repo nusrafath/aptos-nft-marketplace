@@ -1,0 +1,13 @@
+[package]
+name = "V3"
+version = "0.1.0"
+
+[addresses]
+V3 = "0xf7f6871445983573a0a6b6c5511e0225fa829d696dab24c96a0a3ba40bc0de82"
+aptos_framework = "0x1"
+primitives = "0xCAFE"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+AptosStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-stdlib", rev = "main" }
+MoveStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "main" }

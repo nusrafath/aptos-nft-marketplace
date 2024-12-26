@@ -1,0 +1,3 @@
+export const MARKETPLACE_ADDRESS =
+  "0xf7f6871445983573a0a6b6c5511e0225fa829d696dab24c96a0a3ba40bc0de82";
+export const CONTRACT_NAME = "V3";
